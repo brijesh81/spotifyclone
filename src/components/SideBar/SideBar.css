@@ -9,6 +9,11 @@
     padding-right: 10px;
 }
 
+.sidebar > h4 {
+    padding-left: 100px;
+    color: #1ed15e;
+}
+
 .sidebar__logo {
     object-fit: contain;
     height: 70px;
